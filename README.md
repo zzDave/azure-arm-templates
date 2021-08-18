@@ -1,2 +1,2 @@
 # azure-arm-templates
-My public Azure Arms Tempaltes
+My public Azure Arms Templates
